@@ -1,9 +1,9 @@
 <a href="https://github.com/Ayusohm432">
-<img src="https://raw.githubusercontent.com/Ayusohm432/Ayusohm432/main/OmBanner.webp" alt="MasterHead"  width="1100">
+<img src="https://github.com/Ayusohm432/Ayusohm432/blob/main/Market-Programming-Banner.jpg" alt="MasterHead"  width="1100">
 </a>
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">Pursuing B.Tech in Computer Science & Engineering From Gaya College Of Engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-hacker-14.gif">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushom432&label=Profile%20views&color=0e75b6&style=flat" alt="ayushom432" /> </p>
 
