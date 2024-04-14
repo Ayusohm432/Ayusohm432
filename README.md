@@ -1,4 +1,4 @@
-[![MasterHead]([https://thumbs.dreamstime.com/z/web-banner-phrase-hacking-concept-cyber-attack-system-hack-crime-sci-fi-screen-background-neon-design-bit-pixel-art-252440572.jpg](https://thumbs.dreamstime.com/b/web-banner-phrase-hacked-concept-cyber-attack-hacking-malware-spyware-sci-fi-screen-background-neon-design-bit-pixel-252440602.jpg))](https://github.com/Ayusohm432)
+[![MasterHead]([https://static.vecteezy.com/system/resources/previews/009/000/161/non_2x/banner-of-hacker-and-data-icons-with-abstract-background-vector.jpg))](https://github.com/Ayusohm432)
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">Pursuing B.Tech in Computer Science & Engineering From Gaya College Of Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-hacker-14.gif">
