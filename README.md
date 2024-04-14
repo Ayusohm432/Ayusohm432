@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Ayusohm432/Ayusohm432/main/OmBanner.webp,width=350px)](https://github.com/Ayusohm432)
+[![MasterHead](https://raw.githubusercontent.com/Ayusohm432/Ayusohm432/main/OmBanner.webp)](https://github.com/Ayusohm432)
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">Pursuing B.Tech in Computer Science & Engineering From Gaya College Of Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-hacker-14.gif">
