@@ -13,13 +13,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif">
 
-- 🔭 I’m currently working on [E-Commerce Website](https://github.com/users/Ayusohm432/projects/2)
+- 🔭 I’m currently working on [Feedback Management System](https://github.com/Ayusohm432/Feedback-Management-System)
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👯 I’m looking to collaborate on [E-Commerce Website](https://github.com/users/Ayusohm432/projects/2)
+- 👯 I’m looking to collaborate on [Feedback Management System](https://github.com/Ayusohm432/Feedback-Management-System)
 
-- 🤝 I’m looking for help with [E-Commerce Website](https://github.com/users/Ayusohm432/projects/2)
+- 🤝 I’m looking for help with [Feedback Management System](https://github.com/Ayusohm432/Feedback-Management-System)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayusohm432](https://github.com/Ayusohm432)
 
